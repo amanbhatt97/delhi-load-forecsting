@@ -2,6 +2,7 @@
 __pycache__/
 
 data/
+!src/data/
 logs/
 .env
 delhi-discoms-env/
