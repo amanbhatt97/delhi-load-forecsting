@@ -5,3 +5,4 @@ data/
 logs/
 .env
 delhi-discoms-env/
+.DS_Store
